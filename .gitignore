@@ -3,8 +3,9 @@
 # editorial review. Kept locally for reference; never published.
 archive/
 
-# --- Belongs in the separate ducp-protocol/.github repo, not the spec repo ---
+# --- Separate repos kept in this folder locally, not part of the spec repo ---
 org-profile/
+ducp-node-rs/
 
 # --- LibreOffice / Microsoft Office lock & temporary files ---
 .~lock.*#

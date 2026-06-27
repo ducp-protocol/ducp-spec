@@ -97,7 +97,7 @@ Critiques, questions, and proposals are welcome — especially adversarial ones.
 
 ## Reference Implementation
 
-*Coming soon* — in Rust, at [`ducp-protocol/node`](https://github.com/ducp-protocol/node). It will include the DVM (execution environment & 𝕌 meter), the verification layer (TEE attestation, ZK, sampled re-execution), the Standing and settlement engines, and the governance machinery. Pre-1.0 it is source-available with rights reserved (Business Source License), converting to Apache-2.0 at v1.0 (see Licensing).
+*In progress* — in Rust, at [`ducp-protocol/ducp-node-rs`](https://github.com/ducp-protocol/ducp-node-rs). It will include the DVM (execution environment & 𝕌 meter), the verification layer (TEE attestation, ZK, sampled re-execution), the Standing and settlement engines, and the governance machinery. Pre-1.0 it is source-available with rights reserved (Business Source License), converting to Apache-2.0 at v1.0 (see Licensing).
 
 ## Licensing, Ownership & Trademarks
 
