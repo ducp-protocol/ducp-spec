@@ -1,0 +1,6 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DUCP mark (white, transparent)">
+  <!-- monochrome white mark, transparent background; for dark surfaces / single-color use -->
+  <path d="M 168 156 L 168 268 A 88 88 0 0 0 344 268 L 344 156" fill="none" stroke="#FFFFFF" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 212 156 L 212 268 A 44 44 0 0 0 300 268 L 300 156" fill="none" stroke="#FFFFFF" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="344" cy="124" r="12" fill="#FFFFFF"/>
+</svg>

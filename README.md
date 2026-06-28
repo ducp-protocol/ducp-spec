@@ -1,6 +1,11 @@
-# Decentralized Universal Compute Protocol (DUCP)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/ducp-logo-horizontal-dark.png">
+    <img alt="DUCP — Decentralized Universal Compute Protocol" src="brand/ducp-logo-horizontal.png" width="540">
+  </picture>
+</p>
 
-### *Democratizing Sustainable Compute to Power Technological Evolution*
+<p align="center"><em>Democratizing Sustainable Compute to Power Technological Evolution</em></p>
 
 > **Status:** First public release — **v0.1.0** (June 2026), published as a
 > Request for Comments. A design seeking scrutiny and collaborators, not a
