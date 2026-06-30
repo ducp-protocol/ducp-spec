@@ -28,7 +28,7 @@ DUCP exists to accelerate technological evolution and the advancement of intelli
 
 Prior public releases are kept in [`releases/`](releases/).
 
-Repository layout: [`whitepaper/`](whitepaper/) — the paper · [`quant/`](quant/) — the companion Quant (ℚ) standard · [`spec/`](spec/) — the formal specification (in progress) · [`proposals/`](proposals/) — change proposals · [`releases/`](releases/) — published releases.
+Repository layout: [`whitepaper/`](whitepaper/) — the paper · [`quant/`](quant/) — the companion Quant (ℚ) standard · [`spec/`](spec/) — the formal specification (in progress) · [`proposals/`](proposals/) — change proposals · [`releases/`](releases/) — published releases. For a multi-repo local checkout, see [WORKSPACE.md](WORKSPACE.md).
 
 **Versioning.** The public history begins at **0.1.0**. DUCP uses semantic versioning adapted for a specification: `0.MINOR.PATCH` during the pre-implementation phase (MINOR for substantive accepted revisions, PATCH for editorial fixes); **1.0.0 is reserved** for a specification frozen against a working reference implementation and a public testnet. The drafts that preceded this release were private and solo; nothing in DUCP's public history predates 0.1.0. See [CHANGELOG.md](CHANGELOG.md).
 
@@ -38,7 +38,7 @@ DUCP ships with a companion standard, the **Quant (ℚ)** — a substrate-indepe
 
 - [**The Quant (ℚ) — Standard v0.1.0 (PDF)**](quant/Quant_Standard_v0.1.0.pdf) · [Markdown source](quant/Quant_Standard_v0.1.0.md) · [companion overview](quant/) · **RFC**
 
-The Quant is published as an open **Request for Comments & Collaboration** — critique and validated benchmark data especially welcome; comment via [`quant`-labelled issues](https://github.com/ducp-protocol/spec/issues?q=label%3Aquant).
+The Quant is published as an open **Request for Comments & Collaboration** — critique and validated benchmark data especially welcome; comment via [`quant`-labelled issues](https://github.com/ducp-protocol/ducp-spec/issues?q=label%3Aquant).
 
 The two couple through reward-neutrality, a shared Benchmark Node baseline, the **Sealed Power Proof** (how ℚ is recorded trustlessly when per-task energy can't be both confidential and attested), and a joint vendor-locked-power-register hardware ask. See [`quant/`](quant/).
 
