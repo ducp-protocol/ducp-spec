@@ -65,4 +65,4 @@ mv spec ducp-spec    # if your folder is still named spec
 git -C ducp-spec remote set-url origin git@github.com:ducp-protocol/ducp-spec.git
 ```
 
-GitHub redirects `ducp-protocol/ducp-spec` URLs to `ducp-spec` after the rename; update bookmarks and badges to the new name when convenient.
+GitHub redirects `ducp-protocol/spec` URLs to `ducp-protocol/ducp-spec` after the rename; update bookmarks and badges to the new name when convenient.
